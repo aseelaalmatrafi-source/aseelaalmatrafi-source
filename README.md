@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Aseela! 👋
 
-<!--
-**aseelaalmatrafi-source/aseelaalmatrafi-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Artificial Intelligence Student at Umm Al-Qura University
 
-Here are some ideas to get you started:
+## 💻 About Me
+- Passionate about AI and Software Development
+- Interested in building practical tech solutions
+- Currently developing my programming skills
+- Expected Graduation: 2028
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- Languages: Java, Python, SQL, HTML, CSS
+- Tools: VS Code, NetBeans, GitHub, Cisco Packet Tracer
+- Interests: Artificial Intelligence, Software Engineering, Web Development
+
+## 🚀 Projects
+Explore my repositories to see my academic and personal projects.
+
+## 📫 Let's Connect
+Open to cooperative training opportunities and professional growth.
